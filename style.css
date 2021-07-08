@@ -100,7 +100,7 @@ nav {
 }
 
 main {
-  margin-top: var(--header-heigh);
+  margin-top: calc(var(--header-heigh) + 2rem);
 }
 
 .container {
